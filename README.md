@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-powered projects like DataQuery AI Assistant. <br>👯 I’m looking to collaborate on AI, ML, and full-stack development projects.  <br>🌱 I’m currently learning advanced AI models, NLP techniques, and efficient backend optimization  <br>💬 Ask me about AI, web development and data analysis.<br>⚡ Fun fact, I love building AI tools that solve real-world problems while making learning and tech more interactive! <br><br>
+🔭 I’m currently working on UI/UX design. <br>👯 I’m looking to collaborate on AI, ML, and full-stack development projects.  <br>🌱 I’m currently learning advanced AI models, NLP techniques, and efficient backend optimization  <br>💬 Ask me about AI, web development and data analysis.<br>⚡ Fun fact, I love building AI tools that solve real-world problems while making learning and tech more interactive! <br><br>
 
 
 ## 🌐 Socials:
